@@ -11,6 +11,7 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//codigo qualquer adicionado		
+		//codigo qualquer adicionado
+		//alterado do git
 	}
 }
